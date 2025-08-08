@@ -1,0 +1,12 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters are numerous and subtly interdependent.
+
+[application]
+config/name="Mafia Game"
+config/description="A role-based deduction game"
+run/main_scene="res://scenes/main_menu.tscn"
+config/icon="res://assets/icon.png"
+
+[rendering]
+quality/driver/driver_name="GLES2"
